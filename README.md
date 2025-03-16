@@ -32,3 +32,25 @@ This is a terminal-based implementation of the classic Minesweeper game. Players
    java Base
    ```
 - This setup will allow users to run the game from their terminal.
+
+## ScreenShots
+
+![111](https://github.com/user-attachments/assets/8dcd2744-6b8b-4ae8-a2c8-666cffa05944)
+
+
+![222](https://github.com/user-attachments/assets/b2b8cfdc-7f3b-4a93-bc95-1973b246fbe4)
+
+
+![333](https://github.com/user-attachments/assets/bd672041-da9b-4750-86ca-d4735e2afd37)
+
+
+
+
+
+
+
+
+
+
+
+
